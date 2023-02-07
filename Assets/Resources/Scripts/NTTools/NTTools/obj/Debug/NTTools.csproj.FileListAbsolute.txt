@@ -1,0 +1,2 @@
+C:\Users\Public\Documents\Unity Projects\NTTools\NTTools\obj\Debug\NTTools.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\nature-hater-1\Demo Level\NatureHater\Assets\NTTools\NTTools\obj\Debug\NTTools.csprojResolveAssemblyReference.cache
